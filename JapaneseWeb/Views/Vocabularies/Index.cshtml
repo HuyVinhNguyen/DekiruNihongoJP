@@ -1,0 +1,52 @@
+﻿@model IEnumerable<JapaneseWeb.Models.Vocabulary>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Kanji)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Hiragana)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Katakana)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Meaning)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kanji)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Hiragana)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Katakana)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Meaning)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>

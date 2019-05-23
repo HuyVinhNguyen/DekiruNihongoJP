@@ -1,0 +1,366 @@
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\ApplicationInsights.config
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.dll.config
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.pdb
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.exe
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.exe.config
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.rsp
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.exe
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.exe.config
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.rsp
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.AppContext.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Console.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Compression.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Pipes.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Claims.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.ValueTuple.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.exe
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.exe.config
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.rsp
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\VBCSCompiler.exe
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Antlr3.Runtime.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\EntityFramework.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\EntityFramework.SqlServer.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Web.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Newtonsoft.Json.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Owin.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Helpers.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Mvc.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Optimization.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Razor.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Razor.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\WebGrease.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Helpers.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Mvc.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Optimization.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.Razor.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Razor.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Newtonsoft.Json.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Antlr3.Runtime.pdb
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\EntityFramework.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\EntityFramework.SqlServer.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Web.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web Game\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csprojAssemblyReference.cache
+D:\Web Game\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.CoreCompileInputs.cache
+D:\Web Game\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.CopyComplete
+D:\Web Game\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.dll
+D:\Web Game\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.pdb
+D:\JapaneseWeb\JapaneseWeb\bin\ApplicationInsights.config
+D:\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.dll.config
+D:\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.dll
+D:\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.pdb
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.exe
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.exe.config
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.rsp
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.exe
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.exe.config
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.rsp
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.AppContext.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Console.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Compression.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Pipes.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Claims.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.ValueTuple.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XPath.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.exe
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.exe.config
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.rsp
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\VBCSCompiler.exe
+D:\JapaneseWeb\JapaneseWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\JapaneseWeb\JapaneseWeb\bin\Antlr3.Runtime.dll
+D:\JapaneseWeb\JapaneseWeb\bin\EntityFramework.dll
+D:\JapaneseWeb\JapaneseWeb\bin\EntityFramework.SqlServer.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Web.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.ApplicationInsights.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Newtonsoft.Json.dll
+D:\JapaneseWeb\JapaneseWeb\bin\Owin.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Helpers.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Mvc.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Optimization.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Razor.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Deployment.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Razor.dll
+D:\JapaneseWeb\JapaneseWeb\bin\WebGrease.dll
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Helpers.xml
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Mvc.xml
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Optimization.xml
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.Razor.xml
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.xml
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Deployment.xml
+D:\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Razor.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Newtonsoft.Json.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Antlr3.Runtime.pdb
+D:\JapaneseWeb\JapaneseWeb\bin\EntityFramework.xml
+D:\JapaneseWeb\JapaneseWeb\bin\EntityFramework.SqlServer.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\JapaneseWeb\JapaneseWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Web.xml
+D:\JapaneseWeb\JapaneseWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csprojAssemblyReference.cache
+D:\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.CoreCompileInputs.cache
+D:\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.CopyComplete
+D:\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.dll
+D:\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.pdb
+D:\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.Migrations.ver0_TaoBang.resources
+D:\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.GenerateResource.cache
+D:\Web Game\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.Migrations.ver0_Categories.resources
+D:\Web Game\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.GenerateResource.cache
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\ApplicationInsights.config
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.dll.config
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\JapaneseWeb.pdb
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.exe
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.exe.config
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\csc.rsp
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.exe
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.exe.config
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\csi.rsp
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.AppContext.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Collections.Immutable.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Console.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Compression.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.FileSystem.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.IO.Pipes.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Reflection.Metadata.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.AccessControl.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Claims.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.ValueTuple.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XPath.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.exe
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.exe.config
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\vbc.rsp
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\VBCSCompiler.exe
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\roslyn\VBCSCompiler.exe.config
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Antlr3.Runtime.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\EntityFramework.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\EntityFramework.SqlServer.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.DependencyCollector.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Web.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.WindowsServer.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.ApplicationInsights.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Google.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Web.Infrastructure.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Newtonsoft.Json.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Owin.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Helpers.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Mvc.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Optimization.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Razor.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Deployment.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Razor.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\WebGrease.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Helpers.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Mvc.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Optimization.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.Razor.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Deployment.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Web.WebPages.Razor.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Newtonsoft.Json.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Antlr3.Runtime.pdb
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\EntityFramework.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\EntityFramework.SqlServer.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Google.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.DependencyCollector.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.WindowsServer.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.AI.Web.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csprojAssemblyReference.cache
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.CoreCompileInputs.cache
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.CopyComplete
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.dll
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.pdb
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.Migrations.ver0_Levels.resources
+D:\Web Game\DANCS\JapaneseWeb\JapaneseWeb\obj\Debug\JapaneseWeb.csproj.GenerateResource.cache

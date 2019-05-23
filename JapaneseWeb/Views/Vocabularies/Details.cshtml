@@ -1,0 +1,51 @@
+﻿@model JapaneseWeb.Models.Vocabulary
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Vocabulary</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Kanji)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Kanji)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Hiragana)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Hiragana)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Katakana)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Katakana)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Meaning)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Meaning)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

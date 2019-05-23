@@ -1,0 +1,140 @@
+﻿
+<div class="row space60"></div>
+@{
+    ViewBag.Title = "Contact";
+}
+<h2>Contact Us</h2>
+<h3>Liên lạc với chúng tôi ngay nếu bạn có giải đáp thắc mắc</h3>
+
+<link href="~/Content/Site.css" rel="stylesheet" />
+
+<!DOCTYPE html>
+
+<html class="not-ie" lang="en">
+
+<body>
+    <!-- Header -->
+
+    <!-- Titlebar
+    ================================================== -->
+
+    <!-- Content -->
+    <div id="content">
+        <div class="container">
+            <div class="row">
+                <div class="span12">
+                    <h2>Liên hệ ngay với nhân viên</h2>
+                </div>
+
+                <div class="span6">
+                    <h3>Danh mục liên lạc</h3>
+                    <!-- Tabs -->
+                    <div class="tabbable">
+                        <ul class="nav nav-tabs">
+                            <li class="active"><a href="#tab1" data-toggle="tab">Person 1</a></li>
+                            <li><a href="#tab2" data-toggle="tab">Person 2</a></li>
+                        </ul>
+                        <div class="tab-content">
+                            <div class="tab-pane active" id="tab1">
+                                <h3>Trần Hoài Bảo</h3>
+                                <p>
+                                    Facebook:https://www.facebook.com/BaoTran1598 <br />
+                                    Email: baotran01051998@gmail.com
+                                </p>
+                            </div>
+                            <div class="tab-pane" id="tab2">
+                                <h3>Nguyễn Vĩnh Huy</h3>
+                                <p>
+                                    Facebook:https://www.facebook.com/vinhhuy.nguyen.129 <br />
+                                    Email: huyanphat113@gmail.com
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Tabs End -->
+                </div>
+                <div class="span6">
+                    <h3>Content</h3>
+                    <p>
+                        Chúng tôi sẽ tiếp thu những ý tường và sáng kiến của bạn.
+                    </p><p>
+                        Chúng tôi sẽ tạo ra một môi trường phù hợp với bạn.
+                    </p><p>
+                        Chúng tôi sẽ giúp bạn tiến bộ từng ngày.
+                </div>
+
+                <div class="row space40"></div>
+
+               
+                <div class="row space50"></div>
+            </div>
+        </div>
+        <!-- Content End -->
+        <!-- Footer -->
+        <footer id="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="span5">
+                        <h4>Nếu bạn có thắc mắc liên lạc ngay với chúng tôi</h4>
+                        <div>
+                            <form class="form-main" name="ajax-form" id="ajax-form" action="#" method="post">
+                                <div id="ajaxsuccess">E-mail was successfully sent.</div>
+                                <div class="error" id="err-name">Please enter name</div>
+                                <input name="name" id="name" type="text" value="Name" onfocus="if(this.value == 'Name') this.value='';" onblur="if(this.value == '') this.value='Name';">
+
+                                <div class="error" id="err-email">Please enter e-mail</div>
+                                <div class="error" id="err-emailvld">E-mail is not a valid format</div>
+                                <input name="email" id="email" type="text" value="E-mail" onfocus="if(this.value == 'E-mail') this.value='';" onblur="if(this.value == '') this.value='E-mail';">
+
+                                <div class="error" id="err-message">Please enter message</div>
+                                <textarea name="message" id="message" onfocus="if(this.value == 'Message') this.value='';" onblur="if(this.value == '') this.value='Message';">Message</textarea><br>
+                                <div>
+                                    <div class="error" id="err-form">There was a problem validating the form please check!</div>
+                                    <div class="error" id="err-timedout">The connection to the server timed out!</div>
+                                    <div class="error" id="err-state"></div>
+                                </div>
+                                <button id="send" class="btn f-right">Send Message <i class="icon-ok"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                    <div class="span3 offset3">
+                        <h3>Facebook</h3>
+                        www.facebook.com/BaoTran1598<br>
+                        www.facebook.com/vinhhuy.nguyen.129<br>
+                        Viet Nam<br>
+                        <br>
+                        <i class="icon-phone"></i>+01 880 555 999<br>
+                        <i class="icon-envelope"></i><a href="mailto:support@example.com">support@example.com</a><br>
+                        <i class="icon-home"></i><a href="#">http://localhost:58371/</a>
+
+                        <div class="row space40"></div>
+
+                        <a href="#" class="social-network sn2 behance"></a>
+                        <a href="#" class="social-network sn2 facebook"></a>
+                        <a href="#" class="social-network sn2 pinterest"></a>
+                        <a href="#" class="social-network sn2 flickr"></a>
+                        <a href="#" class="social-network sn2 dribbble"></a>
+                        <a href="#" class="social-network sn2 lastfm"></a>
+                        <a href="#" class="social-network sn2 forrst"></a>
+                        <a href="#" class="social-network sn2 xing"></a>
+                    </div>
+                </div>
+
+                <div class="row space50"></div>
+                <div class="row">
+                    <div class="span6 right">
+                        © 2020. All rights reserved.
+                    </div>
+                </div>
+
+            </div>
+        </footer>
+        <!-- Footer End -->
+        <!-- JavaScripts -->
+        <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+        <script type="text/javascript" src="js/bootstrap.min.js"></script>
+        <script type="text/javascript" src="js/functions.js"></script>
+        <script type="text/javascript" defer src="js/jquery.flexslider.js"></script>
+    </div>
+</body>
+</html>
